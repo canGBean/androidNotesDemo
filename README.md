@@ -9,3 +9,6 @@
 * 2.5
 ### demosecondactivity-Demo内容
 * 2.4-2.5
+* 3.2.2
+### UIWidgetTest-Demo内容
+* 3.2.2-3.2.4
