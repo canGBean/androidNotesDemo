@@ -27,8 +27,9 @@
         android:maxLines="2" />
     <Button
         android:id="@+id/button"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:text="button"/>
     <ImageView
         android:id="@+id/image_view"
