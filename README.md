@@ -19,3 +19,5 @@
 * 3.4
 ### ListViewTest-Demo内容
 * 3.5
+### RecyclerViewTest-Demo内容
+* 3.6
