@@ -2,7 +2,7 @@
 《第一行代码android》(第二版)笔记Demo
 ## 笔记地址
 * 第二章2.2-2.6笔记地址:[Android第一行代码(第二版)读书笔记1](https://www.cnblogs.com/GYoungBean/p/13204049.html)
-* 第三章3.1-笔记地址:[Android第一行代码(第二版)读书笔记2](https://www.cnblogs.com/GYoungBean/p/13307457.html )
+* 第三章3.1-3.7笔记地址:[Android第一行代码(第二版)读书笔记2](https://www.cnblogs.com/GYoungBean/p/13307457.html )
 
 ## 笔记章节测试代码
 ### app-Demo内容
